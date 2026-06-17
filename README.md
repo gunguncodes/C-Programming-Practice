@@ -10,4 +10,4 @@ This repository contains my C programming practice programs.
 - Functions
 
 ## Total Programs
-60+
+75+
